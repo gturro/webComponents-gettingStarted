@@ -1,0 +1,10 @@
+app-nav{
+    height: fit-content;
+    margin-bottom: 10px;
+}
+
+app-nav .btn{
+    width: 100%;
+    font-size: 25px;
+    font-weight: 700;
+}

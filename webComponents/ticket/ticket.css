@@ -1,0 +1,13 @@
+app-ticket {
+    display: block;
+    padding: 10px;
+    background-color: rgba(186, 85, 211, .8);
+    border-radius: 0 0 10px 10px;
+    margin-bottom: 16px;
+    font-size: 18px;
+}
+#underline{
+    width: 100%;
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+}

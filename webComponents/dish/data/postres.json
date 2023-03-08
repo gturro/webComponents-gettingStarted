@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Macedonia",
+        "price" : "3.5",
+        "description" : "Variado de frutas: Manzana, naranja, arandanos y frambuesas con zumo de naranja."
+    },
+    {
+        "name" : "Tarta de queso",
+        "price" : "2.20",
+        "description" : "Tarta de queso.<br>Sin mas, Tarta - De - Queso."
+    },
+    {
+        "name" : "Crema Catalana",
+        "price" : "3",
+        "description" : "Sa crema catalana cremada amb carmel de la cabalgata dels reis de l'any passat."
+    },
+    {
+        "name" : "Mochi",
+        "price" : "999",
+        "description" : "The Mochi.<br>The best mochi ever produced."
+    }
+]

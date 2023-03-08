@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Supertagliatelle",
+        "price" : "16,50",
+        "description" : "Plato segundo echo con amol"
+    },
+    {
+        "name" : "Pad thai de pollo",
+        "price" : "14,50",
+        "description" : "tallarines de arroz + shiitake + zanahoria + pollo it's plant-based + germinados de soja + cacahuetes tostados + daikon encurtido + salsa pad thai casera + cebolleta china + lima + cilantro"
+    },
+    {
+        "name" : "Asian cacio & pepe ",
+        "price" : "14,95",
+        "description" : "Macarrones coreanos de arroz glutinoso + 'queso' madurado + aceite de trufa + sakura cress + salsifí"
+    },
+    {
+        "name" : "Truffle mayo burger",
+        "price" : "15,95",
+        "description" : "pan brioche integral de espelta** con carbón activado + hamburguesa it’s plant-based + mayonesa trufada + champiñones salteados + cebolla asada + 'cheddar'"
+    }
+]

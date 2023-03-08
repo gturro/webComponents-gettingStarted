@@ -1,0 +1,20 @@
+app-ticket {
+    display: block;
+    padding: 10px;
+    background-color: rgba(186, 85, 211, .8);
+    border-radius: 0 0 10px 10px;
+
+    margin-bottom: 16px;
+}
+#underline{
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+.trash{
+    cursor: pointer;
+}
+.trash img{
+    width: 16px;
+    height: 16px;
+}

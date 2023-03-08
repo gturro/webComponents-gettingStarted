@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/style/bootstrap.min.css">
+    <link rel="stylesheet" href="/style/style.css">
+    <link rel="stylesheet" href="webComponents/nav/nav.css">
+    <link rel="stylesheet" href="webComponents/ticket/ticket.css">
+    <title>Web Components</title>
+</head>
+<body>
+    <!-- App -->
+    <div class="container">
+        <app-nav></app-nav>
+        <div class="body">
+            <div class="content">
+                <p class="p-4 mt-5" style="font-size: 20px; font-weight: bolder;">Selecciona un Menu para ver los diferentes platos.</p>
+                <p class="p-4" style="font-size: 20px; font-weight: bolder;">Pulsa un plato para añadirlo al carro de compra.</p>
+            </div>
+        </div>
+        <app-ticket></app-ticket>
+    </div>
+    <!-- Scripts -->
+    <script>
+        const primer = "";
+    </script>
+    <script type="module" src="webComponents/nav/nav.js"></script>
+    <script type="module" src="webComponents/dish/dish.js"></script>
+    <script type="module" src="webComponents/ticket/ticket.js"></script>
+    <script type="module" src="webComponents/ticket-item/ticketItem.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+[
+    {
+        "name" : "Sprite",
+        "price" : "1.80",
+        "description" : "Refresco con burbujitas frescas"
+    },
+    {
+        "name" : "Coca cola",
+        "price" : "1.90",
+        "description" : "Para que te crezca la cola"
+    },
+    {
+        "name" : "Fanta",
+        "price" : "1.80",
+        "description" : "La classica falso limon/naranja con un chute de asucar que flipas, menos que la cocacola tho."
+    },
+    {
+        "name" : "Agua",
+        "price" : "1",
+        "description" : "Agua fresca del manantial de la Barceloneta aka Tapwater"
+    },
+    {
+        "name" : "Zumo naranja",
+        "price" : "2",
+        "description" : "Sangre de naranja exprimida des sus cuerpos con una pressión de 20psi."
+    }
+    
+]

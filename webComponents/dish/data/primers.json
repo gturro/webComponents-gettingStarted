@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Paella",
+        "price" : "15",
+        "description" : "Paella con arroz del Delta de l'Ebre.<br>Contiene: Cigala."
+    },
+    {
+        "name" : "Gambas al ajillo",
+        "price" : "8",
+        "description" : "Gambas rojas de Palamòs salvajes del mismo dia."
+    },
+    {
+        "name" : "Brocoli salteado",
+        "price" : "6",
+        "description" : "Riiico rico brocoli"
+    },
+    {
+        "name" : "Patatas Sultan",
+        "price" : "2",
+        "description" : "Las patatas que hace Sultan."
+    },
+    {
+        "name" : "Yakisoba",
+        "price" : "6.40",
+        "description" : "Fideo crujientes chinos salteados con brocoli, ternera y tomate seco."
+    },
+    {
+        "name" : "Kebab",
+        "price" : "4.30",
+        "description" : "Tu kebab de confianza.<br>Ternera/Pollo/Mixto/Falafel"
+    }
+]
